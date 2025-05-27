@@ -1,2 +1,3 @@
 # my-test-php
-just for testing
+This is a test repo just for testing my webapp
+ 
